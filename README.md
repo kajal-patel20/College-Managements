@@ -88,7 +88,7 @@ Deleting the data
 Delete from Enrollments where EnrollmentID=2002;
 ```
 
-Using SELECT to display the data
+# Using SELECT to display the data
 
 ```
 select * from students;
@@ -99,7 +99,7 @@ The Output is:-
 ![image](https://github.com/user-attachments/assets/2a1f9695-0bc2-490b-89b8-a17f46d0f8a8)
 
 
-For Specific column it uses
+*For Specific column it uses*
 
 ```
 select Name, DOB from students;
